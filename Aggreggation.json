@@ -1,0 +1,15 @@
+[{
+    "_id": "Candy",
+    "TotalSold": 1916,
+    "TotalRevenue": 54653.93
+  },
+  {
+    "_id": "Cookies",
+    "TotalSold": 1867,
+    "TotalRevenue": 51222.39
+  },
+  {
+    "_id": "Soda",
+    "TotalSold": 1753,
+    "TotalRevenue": 46348.13
+  }]
