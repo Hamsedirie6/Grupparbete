@@ -1,20 +1,25 @@
 [{
-    "_id": "Product_224",
-    "TotalSold": 62
+    "_id": "2025-01-07",
+    "totalSalesByDollar": 2276.28,
+    "numberOfSales": 85
   },
   {
-    "_id": "Product_249",
-    "TotalSold": 59
+    "_id": "2025-01-08",
+    "totalSalesByDollar": 2251.71,
+    "numberOfSales": 80
   },
   {
-    "_id": "Product_220",
-    "TotalSold": 53
+    "_id": "2025-01-14",
+    "totalSalesByDollar": 2206.64,
+    "numberOfSales": 76
   },
   {
-    "_id": "Product_252",
-    "TotalSold": 48
+    "_id": "2025-01-02",
+    "totalSalesByDollar": 2179.03,
+    "numberOfSales": 83
   },
   {
-    "_id": "Product_256",
-    "TotalSold": 48
+    "_id": "2025-01-01",
+    "totalSalesByDollar": 2140.51,
+    "numberOfSales": 74
   }]
